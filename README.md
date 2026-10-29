@@ -7,12 +7,10 @@ In the config you can edit the item, name and lore of the item. So its perfect i
 **Commands**
 
 Player-commands
-
-/tokens withdraw <amount>
+*/tokens withdraw <amount>*
 
 digitalkilltokens.admin/op
-
-/tokens add/remove <amount>
+*/tokens add/remove <amount>*
 
 <details>
 <summary>config.yml</summary>

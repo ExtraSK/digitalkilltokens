@@ -4,12 +4,15 @@ A kill token plugin that stores the tokens with a command. So the player doesnt 
 
 In the config you can edit the item, name and lore of the item. So its perfect if you wanna switch but dont want to remake all shopkeepers.
 
-**Commands**
+## Commands
 
-Player-commands
+**Player-commands**
+
 */tokens withdraw <amount>*
 
-digitalkilltokens.admin/op
+
+**digitalkilltokens.admin/op**
+
 */tokens add/remove <amount>*
 
 <details>

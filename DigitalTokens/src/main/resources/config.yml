@@ -1,0 +1,18 @@
+prefix: "&c&lDigital Kill Tokens"
+
+# The item given when withdrawing tokens
+item:
+  material: NETHER_STAR
+  name: "&c&lᴋɪʟʟ ᴛᴏᴋᴇɴ"
+  lore:
+    - "&8ᴇᴀʀɴᴇᴅ ʙʏ ᴋɪʟʟɪɴɢ ᴘʟᴀʏᴇʀs"
+
+# Use %balance% and %amount% as placeholders
+messages:
+  kill_reward: "&r | You have gotten 1 &dDigital&r Token!"
+  withdraw_success: "&7 | ʏᴏᴜ ᴡɪᴛʜᴅʀᴇᴡ &d%amount% &rᴋɪʟʟ ᴛᴏᴋᴇɴѕ"
+  insufficient_funds: "&7 | &fʏᴏᴜ ʜᴀᴠᴇ &cɪɴѕᴜꜰꜰɪᴄɪᴇɴᴛ ꜰᴜɴᴅѕ"
+  withdraw_usage: "&7 | ᴜѕᴀɢᴇ: &c/ᴛᴏᴋᴇɴѕ ᴡɪᴛʜᴅʀᴀᴡ &r(ᴀᴍᴏᴜɴᴛ)"
+  balance: "&7 | &c%balance% &rᴛᴏᴋᴇɴѕ"
+  admin_added: "&c&lDIGITAL TOKENS &r&7| Gave %amount% Tokens to %arg-1%"
+  admin_removed: "&c&lDIGITAL TOKENS &r&7| Removed %amount% Tokens from %arg-1%"

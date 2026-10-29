@@ -1,0 +1,15 @@
+name: DigitalTokens
+version: '${version}'
+main: com.extrask.digitaltokens.DigitalTokens
+api-version: '1.21'
+author: ExtraSK
+description: A token plugin made for FFAs mainly. Configurable in config.yml.
+website: https://extrask.site
+commands:
+  tokens:
+    description: Manage your digital tokens
+    usage: /tokens [withdraw <amount>|add <player> <amount>|remove <player> <amount>]
+permissions:
+  digitaltokens.admin:
+    description: Allows use of admin commands
+    default: op
